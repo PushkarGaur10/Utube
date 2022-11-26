@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Utube/static/css/main.aaa57e60.css",
+    "main.js": "/Utube/static/js/main.22a5fbda.js",
+    "index.html": "/Utube/index.html",
+    "main.aaa57e60.css.map": "/Utube/static/css/main.aaa57e60.css.map",
+    "main.22a5fbda.js.map": "/Utube/static/js/main.22a5fbda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaa57e60.css",
+    "static/js/main.22a5fbda.js"
+  ]
+}
